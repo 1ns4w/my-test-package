@@ -1,0 +1,19 @@
+{
+  "name": "my-first-package",
+  "version": "1.0.0",
+  "description": "npm packages workshop test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ns4w/my-test-package.git"
+  },
+  "author": "Angel Mejia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1ns4w/my-test-package/issues"
+  },
+  "homepage": "https://github.com/1ns4w/my-test-package#readme"
+}
