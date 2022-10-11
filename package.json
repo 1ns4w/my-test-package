@@ -4,7 +4,7 @@
   "description": "npm packages workshop test",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/1ns4w/my-test-package/issues"
   },
-  "homepage": "https://github.com/1ns4w/my-test-package#readme"
+  "homepage": "https://github.com/1ns4w/my-test-package#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  },
+  "type": "module"
 }
