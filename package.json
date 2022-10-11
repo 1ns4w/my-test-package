@@ -4,7 +4,7 @@
   "description": "npm packages workshop test",
   "main": "index.js",
   "scripts": {
-    "test": "index.js"
+    "test": "mocha index.test.js"
   },
   "repository": {
     "type": "git",
