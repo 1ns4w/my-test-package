@@ -1,6 +1,6 @@
 {
   "name": "ma-first-package",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "npm packages workshop test",
   "main": "index.js",
   "scripts": {
